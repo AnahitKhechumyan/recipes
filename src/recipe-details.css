@@ -1,0 +1,11 @@
+ .recipes-container{
+    margin-left: 30%;
+    width: 40%;   
+}
+ 
+#name{
+    text-align: center;
+    color: #375981;
+    box-shadow:5px 5px 10px #757575;
+}
+ 
